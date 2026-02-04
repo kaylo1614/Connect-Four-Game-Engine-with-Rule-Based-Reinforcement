@@ -1,6 +1,5 @@
 """
 四子棋 AI 遊戲系統 - 數據驅動與啟發式邏輯版本
-開發者：羅楷崴 (Kai-Wei Lo)
 """
 
 import numpy as np
